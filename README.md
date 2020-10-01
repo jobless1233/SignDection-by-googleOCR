@@ -1,4 +1,4 @@
-# SignDection-OCR(서명 유/무 판단 OCR)
+# welcome on SignDection-OCR(서명 유/무 판단 OCR)
 ## Introduction 
 
 계약서 및 다양한 Signature의 유무를 판단합니다<br>
